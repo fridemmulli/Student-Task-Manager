@@ -1,5 +1,5 @@
 import { Disclosure, Menu, MenuButton, MenuItem, MenuItems } from "@headlessui/react";
-import { NavLink, useNavigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import { useContext } from "react";
 import { AuthContext } from "../contexts/AuthContext";
 import { BellIcon } from "@heroicons/react/24/solid";
